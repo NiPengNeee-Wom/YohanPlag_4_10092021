@@ -28,7 +28,8 @@ a:hover {
 }
 
 .col-sm-4 > ul > li{
-    padding-bottom: 0.4rem;
+    padding-bottom: 8px;
+    padding-top: 8px;
 }
 
 .bloc {
